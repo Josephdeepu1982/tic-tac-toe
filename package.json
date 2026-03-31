@@ -1,0 +1,10 @@
+{
+  "name": "tic-tac-toe",
+  "version": "1.0.0",
+  "description": "Simple browser tic-tac-toe game served by Node.js",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "license": "MIT"
+}
